@@ -1,0 +1,21 @@
+---
+layout: "wrapper"
+---
+{{ content }}
+
+{% for post in site.posts %}
+<li><a href="{{ post.url }}" class="title2">{{ post.title }}</a>
+    <br><span>{{ post.description }}</span>
+    <span>{{ post.date | date: '%Y-%m-%d' }}</span>
+    
+    <!-- catégorie cliquable -->
+    <span>in{% for category in post.categories %}
+      <a href="/categories/{{ category }}.html">
+        {{ category }}
+      </a>
+    {% endfor %}</span>
+
+</li> 
+{% endfor %}
+</u>
+      

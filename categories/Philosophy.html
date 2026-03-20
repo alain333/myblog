@@ -1,0 +1,21 @@
+---
+layout: wrapper
+title: Philosophy
+---
+
+<h1 class="title2">posts tagged "Philosophy"</h1>
+
+  {% for post in site.categories.Philosophy %}
+    <li><a href="{{ post.url }}" class="title2">{{ post.title }}</a>
+    <br><span>{{ post.description }}</span>
+    <span>{{ post.date | date: '%Y-%m-%d' }}</span>
+    
+    <!-- catégorie cliquable -->
+    <span>in{% for category in post.categories %}
+      <a href="/categories/{{ category }}.html">
+        {{ category }}
+      </a>
+    {% endfor %}</span>
+
+</li> 
+  {% endfor %}
