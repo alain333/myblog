@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "g/acc on subjectivity"
+title:  "b/acc Pt.2"
 date:   2026-09-20 
 categories: Philosophy
-description: "Gnostic view on bodymods"
+description: "Gnostic view on subjectivity"
 permalink: /:categories/:title
 ---
 
