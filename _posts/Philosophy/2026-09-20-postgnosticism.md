@@ -11,8 +11,6 @@ La merde vaut mieux que *je. Zomb* se branche sur *bie* corps selon une éthique
 <br><br>
 Wark décrit bien comment *je* n’est rien d'autre que la sensation d’un manque qui masque qu’il n’y en a pas.  C’est la propriété qui, sédimentant strates sur strates, laisse une impression de l’*Un* avant la séparation. Écale, âme-limite chez Plotin, avec effet de multiplication de bordures. *Plus un trou est bordé, plus l’effet de bord est d’augmenter la surface sur laquelle il coulisse, et de donner à cette surface une force de capture*. Dialogue de sourd la dialectique de l’âme, production couplée sur elle-même, enclosures après enclosures. 
 <br><br>
-γνῶσις [gnose] 
-<br><br>
 Pour accéder à lui même, le sujet doit 
 Réifier *rien* et en déterminer son mouvement autour du sujet comme référentiel, autour du *résidu d’un fantôme*: 
 <br><br>
