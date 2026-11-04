@@ -89,6 +89,11 @@ body {
   margin: 0 auto;  
 }
 
+  .contenupost {
+    text-align: justify;
+    line-height: 1.37;
+  }
+
 .box {
   display: grid;
   background-color: #000;
@@ -131,6 +136,10 @@ body {
   .contenu {
     max-width: 800px;
     padding: 0 2rem 0;
+  }
+
+  .contenupost {
+    line-height: 1.62;
   }
 
   .box {
