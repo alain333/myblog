@@ -10,7 +10,7 @@ Savez-vous planter les choux ?<br>
 A la mode, à la mode,<br>
 Les choux de la révolution.<br>
 A la mode de chez nous.<br>
-Le cinéma virtualise-t-il le savoir-planter-les-choux des corps? Qu’ils puissent actualiser le temps des récoltes.<br>
+Le cinéma virtualise-t-il le savoir-planter-les-choux des corps? Qu’ils puissent actualiser le temps des récoltes.
 <br><br>
 Mode d’emploi de l’appareil de capture du « gestus » libéré: un geste libre doit être virtualisé dedans le corps du spectateur, les virtualités de celui-ci, actualisées dedans l’image-mouvement, les deux en même temps. Le dispositif caméra-projecteur-écran peut-il être cet appareil? 
 <br><br>
