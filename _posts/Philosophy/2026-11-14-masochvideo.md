@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Manifeste l'Image-masoch"
+title:  "Manifeste de l'Image-masoch"
 date:   2026-11-13
 categories: Philosophy
 description: "Savez-vous planter les choux ? Les choux de la révolution."
@@ -18,6 +18,7 @@ Mode d’emploi de l’appareil de capture du « gestus » libéré: un geste 
 <br><br>
 Peut-on considérer le monologue interne comme une des attitudes du corps qui se mêlent, se coordonnent (gestus) lors des semis? Est-ce qu’on se contente d’engendrer la marche de la pensée? Pensées de jardinage ou simplement foi en le jardin – jardin des délices ou jardins partagés.<br>
 « je pense à la vie, tous les systèmes que je pourrais édifier n’égaleront jamais mes cris d’homme occupé à refaire sa vie… »
+<br>
 Le direct nous entraîne droit dans le germe du cristal. « Indiscernabilité, coalescence de l’image actuelle et de l’image virtuelle. » Peut-on définitivement téléviser la révolution et, du même coup, nous sauver des images-mouvements? Celles-là qui, à force de chercher à faire penser les masses, leurs ont finalement aliénées les jambes aussi:
 <br><br>
 Dans le travail l’ouvrier « ne s’affirme pas mais se nie, […] ne déploie pas une libre activité physique et intellectuelle. […] En conséquence, l’ouvrier n’a le sentiment d’être auprès de lui-même qu’en dehors du travail, et, dans le travail, il se sent en dehors de soi. » 
